@@ -1,0 +1,53 @@
+{
+  "onboarding_flow": {
+    "welcome_screens": [
+      {
+        "id": 1,
+        "title": "Want to be productive?",
+        "description": "Stop procrastinating like this lazy panda!",
+        "image_local_ref": "lazy_panda_1"
+      },
+      {
+        "id": 2,
+        "title": "Still being lazy?",
+        "description": "You could be achieving so much more!",
+        "image_local_ref": "lazy_panda_2"
+      },
+      {
+        "id": 3,
+        "title": "Awaken your strong inner panda!",
+        "description": "Let's unlock your full potential together",
+        "image_local_ref": "awakened_panda"
+      }
+    ],
+    "feature_screens": [
+      {
+        "id": 4,
+        "title": "Pomodoro Technique",
+        "description": "Work in focused 25-minute bursts with short breaks for maximum productivity",
+        "image_local_ref": "pomodoro_illustration"
+      },
+      {
+        "id": 5,
+        "title": "Smart To-Do Lists",
+        "description": "Organize tasks by priority and track your progress systematically",
+        "image_local_ref": "todo_illustration"
+      },
+      {
+        "id": 6,
+        "title": "Active Recall Flashcards",
+        "description": "Strengthen memory retention with scientifically-proven techniques",
+        "image_local_ref": "flashcards_illustration"
+      }
+    ],
+    "completion_message": {
+      "template": "Let's do this, {name}!\nAs a {role}, your goal to {goal} is within reach!\n\nStay focused, stay productive!",
+      "image_local_ref": "panda_complete"
+    }
+  },
+  "metadata": {
+    "version": 1.1,
+    "last_updated": "2023-11-25",
+    "offline_fallback": true
+  }
+}
