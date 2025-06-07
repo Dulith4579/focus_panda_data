@@ -41,7 +41,7 @@
       }
     ],
     "completion_message": {
-      "template": "Let's do this, {name}!\nAs a {role}, your goal to {goal} is within reach!\n\nStay focused, stay productive!",
+      "template": "Let's do this,\nStay focused, stay productive!",
       "image_local_ref": "panda_complete"
     }
   },
